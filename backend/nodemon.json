@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "ipips",
+    "MONGO_PASSWORD": "ipips",
+    "MONGO_DATABASE": "tomato",
+    "SENDGRID_KEY": "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"
+  }
+}
